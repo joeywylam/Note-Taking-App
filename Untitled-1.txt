@@ -1,0 +1,5 @@
+/your-repo
+    ├── index.html (if you have a home page)
+    ├── notetaking.html
+    ├── style.css
+    ├── notetaking.js
