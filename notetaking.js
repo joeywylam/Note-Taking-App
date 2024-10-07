@@ -3,7 +3,7 @@ const noteInput = document.getElementById('note-input');
 const addNoteButton = document.getElementById('add-note');
 const notesList = document.getElementById('notes-list');
 
-// Load notes from local storage
+// Load notes from local storage when the app starts
 function loadNotes() {
     const notes = JSON.parse(localStorage.getItem('notes')) || [];
     notes.forEach(note => {

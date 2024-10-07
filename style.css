@@ -61,3 +61,10 @@ li button {
     border: none;
     cursor: pointer;
 }
+
+li .edit-note {
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
