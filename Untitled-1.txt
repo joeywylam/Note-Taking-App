@@ -1,0 +1,5 @@
+/notetaking-app
+    ├── notetaking.html
+    ├── style.css
+    ├── notetaking.js
+    ├── README.md (optional)
